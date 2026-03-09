@@ -1,3 +1,4 @@
+// this is program 2
 public class Armstrong {
     public static void main(String[] args) {
         int number = 153, originalNumber, remainder, result = 0;
